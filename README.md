@@ -22,5 +22,5 @@
 
 # Appends
 
-## [Kubectl Commands]()
-## [YAML files]()
+## [Kubectl Commands](Y-Commands)
+## [YAML files](Z-YamlFiles)
